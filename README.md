@@ -63,6 +63,13 @@
 #### 예시 사진
 
 
+![ezibank1](https://github.com/Jiyeon0504/portfolio/assets/126840588/03752beb-97a6-4fdb-9607-bd28d7045963)
+![ezibank2](https://github.com/Jiyeon0504/portfolio/assets/126840588/45c2dc37-cf1f-4753-8295-fb4f53b4a008)
+![ezibank4](https://github.com/Jiyeon0504/portfolio/assets/126840588/f4e336b9-7cea-4d1d-84f4-30723abd1ea4)
+![ezibank5](https://github.com/Jiyeon0504/portfolio/assets/126840588/89460cee-32df-42ee-b588-e7f5dd13c2e3)
+![ezibank6](https://github.com/Jiyeon0504/portfolio/assets/126840588/b09cf9a8-361b-49f1-93fd-a725f49711cf)
+
+
 
 ## - 도서관 도서 관리 웹 제작 
 #### 개요
@@ -89,7 +96,7 @@
 - 관리자모드 - 도서검색, 도서등록, 도서 삭제, 도서반납
 
 #### 예시 사진
-
+(수정중)
 
 
 
@@ -117,4 +124,4 @@
 - 관리자모드 - 도서검색, 도서등록, 도서 삭제, 도서반납
 
 #### 예시 사진
-
+![lib1](https://github.com/Jiyeon0504/portfolio/assets/126840588/5d45ff19-7cb9-4c98-89f8-b3b02f2393dd)
