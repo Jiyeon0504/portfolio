@@ -1,8 +1,8 @@
 # portfolio
 
 
-#CCTV를 활용한 AI-driven Audience Measurement
-## 개요
+## - CCTV를 활용한 AI-driven Audience Measurement
+#### 개요
 - python을 이용한 웹 프로젝트
 
 #### 만든 목적
@@ -14,20 +14,49 @@
 - 23.05 ~ 23.11
 - 팀 프로젝트 (6인)
    
-## 사용 기술 및 개발 환경
+#### 사용 기술 및 개발 환경
 - O/S : windows
 - Server : Flask
 - DB : Oracle21c
 - Language : Python, Javascript, HTML5, CSS3
 - Tool : Visual Studio Code
 
-## 내용
+#### 내용
 #### 구현 기능
 - Python을 이용하여 Data Labeling 기술
 - Python을 이용하여 Human tracking 기술
 - Python을 이용하여 DB에서 불러온 데이터를 Heatmap/그래프로 표시하는 기술
-  
+
+#### 예시 사진
 ![20231120_095422](https://github.com/Jiyeon0504/portfolio/assets/126840588/e96c1de6-6067-462e-9c4f-61acd86fca2c)
 ![20231120_095401](https://github.com/Jiyeon0504/portfolio/assets/126840588/9ad1fe3c-c3bb-48d4-950c-dff7a4053638)
 ![20231120_095416](https://github.com/Jiyeon0504/portfolio/assets/126840588/00228954-eed3-4321-8794-e3187b14f517)
 ![20231120_095333](https://github.com/Jiyeon0504/portfolio/assets/126840588/b0abd117-69b2-4eb9-903c-aec1d711c79f)
+
+
+
+## - 은행 오픈뱅킹 웹 프로젝트
+#### 개요
+- JAVA를 이용한 웹 프로젝트
+
+#### 만든 목적
+- 오픈뱅킹 서비스를 이용해 당행이체는 물론, 타행 계좌조회 및 이체를 가능하게 하여 하나의 사이트에서 
+  여러 은행계좌를 관리할 수 있게 합니다.
+
+#### 일정
+- 23.06 ~ 23.06
+- 개인 프로젝트, 일부 팀프로젝트(4명, 오픈뱅킹)
+   
+#### 사용 기술 및 개발 환경
+- O/S : windows
+- Server : Apache Tomcat 9.0
+- DB : Oracle21c
+- Language : Java, Javascript, HTML5, CSS3
+- Tool : Eclipse, SQL Developer
+
+#### 내용
+#### 구현 기능
+- Oracle DB를 연결해 회원가입, 일부숫자 고정+랜덤번호 계좌생성, 당행이체 가능
+- Spring Framework를 활용한 공지사항 게시판
+
+#### 예시 사진
