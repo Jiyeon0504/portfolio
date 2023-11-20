@@ -27,3 +27,7 @@
 - Python을 이용하여 Human tracking 기술
 - Python을 이용하여 DB에서 불러온 데이터를 Heatmap/그래프로 표시하는 기술
   
+![20231120_095422](https://github.com/Jiyeon0504/portfolio/assets/126840588/e96c1de6-6067-462e-9c4f-61acd86fca2c)
+![20231120_095401](https://github.com/Jiyeon0504/portfolio/assets/126840588/9ad1fe3c-c3bb-48d4-950c-dff7a4053638)
+![20231120_095416](https://github.com/Jiyeon0504/portfolio/assets/126840588/00228954-eed3-4321-8794-e3187b14f517)
+![20231120_095333](https://github.com/Jiyeon0504/portfolio/assets/126840588/b0abd117-69b2-4eb9-903c-aec1d711c79f)
