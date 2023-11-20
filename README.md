@@ -28,7 +28,10 @@
 - Python을 이용하여 DB에서 불러온 데이터를 Heatmap/그래프로 표시하는 기술
 
 #### 예시 사진
-(수정중)
+![20231120_095333](https://github.com/Jiyeon0504/portfolio/assets/126840588/5132ceb1-4be1-4726-ad6e-2c748947316d)
+![20231120_095401](https://github.com/Jiyeon0504/portfolio/assets/126840588/02633889-3808-4a52-918b-84f773e11af3)
+![20231120_095416](https://github.com/Jiyeon0504/portfolio/assets/126840588/5b4661c5-774e-4696-b82d-8ddb69caae7b)
+![20231120_095422](https://github.com/Jiyeon0504/portfolio/assets/126840588/9f0d603a-4c0e-45c9-9ebf-66e463780605)
 
 
 
